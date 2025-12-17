@@ -8,7 +8,7 @@ This research explores the feasibility of a dual-layer system to improve decisio
 Layer 1: Price Forecasting (SARIMA): A regression approach to identify standard market trends.
 Layer 2: Early Warning System (EWS): A behavioral classification model designed to detect "fragile" market regimes.
 
--Key Methodology
+- Key Methodology
 
 Operational Crash Definition: A significant price drop of 20% or more occurring over a future 7-day period.
 Feature Engineering: Integration of Market Data (OHLCV), Sentiment (Fear & Greed Index), Social Interest (Google Trends), and Macroeconomic indicators.
