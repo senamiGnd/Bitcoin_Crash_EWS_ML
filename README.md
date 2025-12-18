@@ -18,3 +18,10 @@ Class Imbalance Strategy: Since crashes represent only 1.79% of the data, we imp
 
 EWS Performance: The model achieved a ROC AUC score of 0.70, successfully ranking high-risk days significantly better than a random guess.
 Feature Importance: Google Search Interest was identified as the strongest predictor (+1.64), validating the Speculative Bubble Theory.
+
+- Authors (M1 APMS - IP Paris):
+  Sènami GANDONOU
+  Jiwon CHAE
+  Katerina MICHENINA
+
+- Academic Year: 2025-2026
